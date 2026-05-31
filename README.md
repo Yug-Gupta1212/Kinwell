@@ -20,7 +20,7 @@
 
 | Feature | Description |
 |---|---|
-| 🏠 **Smart Dashboard** | Personalized health overview with quick access to all features |
+| 🏠 **Smart Dashboard** | Personalized health overview with quick access with all features |
 | 💉 **Vaccine Tracker** | Smart vaccine reminders and immunization schedule management |
 | 🔬 **AI Skin Analysis** | Image-based skin condition screening using AI guidance |
 | 🤖 **Multilingual Chatbot** | Voice-enabled health assistant with multilingual support |
