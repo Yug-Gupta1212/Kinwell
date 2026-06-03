@@ -14,7 +14,7 @@
 
 ## 📋 Overview
 
-**KinWell** is a modern, mobile-first, AI-powered preventive healthcare application tailored for **rural and semi-urban communities in India**. It provides an intuitive, offline-first interface designed to empower both individuals and ASHA (Accredited Social Health Activist) workers with critical health tools — all accessible on low-end devices..
+**KinWell** is a modern, mobile-first, AI-powered preventive healthcare application tailored for **rural and semi-urban communities in India**. It provides an intuitive, offline-first interface designed to empower both individuals and ASHA (Accredited Social Health Activist) workers with critical health tools — all accessible on low-end devices...
 
 ## ✨ Features
 
