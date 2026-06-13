@@ -61,7 +61,7 @@
    ```
 
 4. **Open in browser**
-   Navigate to `http://localhost:5173` (or the URL shown in the terminal).
+   Navigate to `http://localhost:5173` (or the URL shown in the terminal)..
 
 ### Build for Production
 
