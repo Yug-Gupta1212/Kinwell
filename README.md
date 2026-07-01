@@ -69,7 +69,7 @@
 npm run build
 ```
 
-The optimized output will be in the `dist/` folder..
+The optimized output will be in the `dist/` folder...
 
 ## 📁 Project Structure
 
