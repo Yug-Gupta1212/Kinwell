@@ -40,7 +40,7 @@
 ### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or higher recommended)
-- [npm](https://www.npmjs.com/) (comes with Node.js)....
+- [npm](https://www.npmjs.com/) (comes with Node.js).....
 
 ### Installation
 
